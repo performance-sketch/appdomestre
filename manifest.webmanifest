@@ -1,0 +1,10 @@
+{
+  "name": "App do Mestre",
+  "short_name": "Mestre",
+  "start_url": "app.html",
+  "display": "standalone",
+  "background_color": "#16130f",
+  "theme_color": "#16130f",
+  "lang": "pt-BR",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
